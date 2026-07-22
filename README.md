@@ -11,6 +11,7 @@ I don't have a tech stack yet, but my favorite tools are Figma & Claude.
 My preferred method of contact is email, so do shoot me an email if you need me or contact me via LinkedIn!
 
 **Fun Facts:**
-I love Honda Civics!
-I don't like coffee; it's too bitter for my taste.
-I like helping others!
+
+- I love Honda Civics!
+- I don't like coffee; it's too bitter for my taste.
+- I like helping others!
