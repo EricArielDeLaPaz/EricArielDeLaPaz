@@ -6,7 +6,7 @@ I enjoy going in depth on what I love and learning everything thoroughly. And wh
 
 Currently, I'm an intern & student.
 
-I don't have a tech stack yet, but my favorite tools are Figma & Claude.
+I don't have a tech stack yet, but my favorite tools are Figma & Claude. Though I do know HTML and CSS.
 
 My preferred method of contact is email, so do shoot me an email if you need me, or contact me via LinkedIn!
 
