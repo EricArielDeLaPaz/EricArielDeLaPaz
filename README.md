@@ -14,3 +14,4 @@ My preferred method of contact is email, so do shoot me an email if you need me,
 
 - I don't like coffee; it's too bitter for my taste.
 - I like helping others and making useful things that help others!
+- You can learn more about me at: https://ericarieldelapaz.tech/about.html
